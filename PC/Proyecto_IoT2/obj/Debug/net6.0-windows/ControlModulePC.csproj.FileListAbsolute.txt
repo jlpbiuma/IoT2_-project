@@ -1,0 +1,131 @@
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.exe
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.deps.json
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.runtimeconfig.json
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.AssemblyReference.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\Proyecto_IoT2.Form1.resources
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.GenerateResource.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfoInputs.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfo.cs
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CoreCompileInputs.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CopyComplete
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\refint\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.genruntimeconfig.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\programa Ordenador Comunicaciones\Proyecto_IoT2\obj\Debug\net6.0-windows\ref\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.exe
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.deps.json
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.runtimeconfig.json
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.AssemblyReference.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\Proyecto_IoT2.Form1.resources
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.GenerateResource.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfoInputs.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfo.cs
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CoreCompileInputs.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CopyComplete
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\refint\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.genruntimeconfig.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\Proyecto\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ref\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.exe
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.deps.json
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.runtimeconfig.json
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.AssemblyReference.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\Proyecto_IoT2.Form1.resources
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.GenerateResource.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfoInputs.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfo.cs
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CoreCompileInputs.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CopyComplete
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\refint\ControlModulePC.dll
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.genruntimeconfig.cache
+C:\Users\jlpor\OneDrive - Universidad de Las Palmas de Gran Canaria\Universidad\5º Curso - Máster\2º Cuatrimestre\IoT2\IOT2_Proyect\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ref\ControlModulePC.dll
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.exe
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.deps.json
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.runtimeconfig.json
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.AssemblyReference.cache
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\Proyecto_IoT2.Form1.resources
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.GenerateResource.cache
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfoInputs.cache
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfo.cs
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CoreCompileInputs.cache
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CopyComplete
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\refint\ControlModulePC.dll
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.genruntimeconfig.cache
+C:\Users\jlpor\Desktop\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ref\ControlModulePC.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.exe
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.deps.json
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.runtimeconfig.json
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.AssemblyReference.cache
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\Proyecto_IoT2.Form1.resources
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.GenerateResource.cache
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfoInputs.cache
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.AssemblyInfo.cs
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CoreCompileInputs.cache
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.csproj.CopyComplete
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\refint\ControlModulePC.dll
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.pdb
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ControlModulePC.genruntimeconfig.cache
+C:\Users\jlpor\Desktop\Proyecto IoT 2\PC\Proyecto_IoT2\obj\Debug\net6.0-windows\ref\ControlModulePC.dll
